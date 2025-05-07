@@ -814,7 +814,6 @@ ams07prdapp02-canary.netmon.azure.com
 ams07prdapp02-canary.westeurope.cloudapp.azure.com
 analytics.ccs.mcafee.com
 analyticsdcs.ccs.mcafee.com
-answers.microsoft.com
 any-na-lx.mix.linkedin.com
 any-na.mix.linkedin.com
 any.edge.bing.com
@@ -3007,7 +3006,6 @@ outlook-base.ms-acdc.office.com
 outlook.ha.office365.com
 outlook.live.com
 outlook.ms-acdc.office.com
-outlook.office.com
 outlook.office365.com
 outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net
 outlookmobile-office365-tas.msedge.net
