@@ -2995,7 +2995,6 @@ outlook-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net
 outlook-base.ms-acdc.office.com
 outlook.ha.office365.com
 outlook.live.com
-outlook.ms-acdc.office.com
 outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net
 outlookmobile-office365-tas.msedge.net
 ow1.res.office365.com
