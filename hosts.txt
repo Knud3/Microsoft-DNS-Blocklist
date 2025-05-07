@@ -3006,7 +3006,6 @@ outlook-base.ms-acdc.office.com
 outlook.ha.office365.com
 outlook.live.com
 outlook.ms-acdc.office.com
-outlook.office365.com
 outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net
 outlookmobile-office365-tas.msedge.net
 ow1.res.office365.com
