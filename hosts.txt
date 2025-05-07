@@ -234,7 +234,6 @@ a-0019.a.dns.azurefd.net
 a-0019.standard.a-msedge.net
 a-9999.a-dc-msedge.net
 a-9999.a-msedge.net
-a-msedge.net
 a-ring-fallback.msedge.net
 a-ring-ipv6only.msedge.net
 a-ring.a-9999.a-msedge.net
@@ -1023,7 +1022,6 @@ bg4.v4.emdl.ws.microsoft.com
 bg5.v4.a.dl.ws.microsoft.com
 bg5.v4.emdl.ws.microsoft.com
 bh.contextweb.com
-bing.com
 bingads.microsoft.com
 bingadsedgeextension-prod.azurewebsites.net
 bingadsedgeextension-prod.trafficmanager.net
@@ -1154,7 +1152,6 @@ c-9999.c-msedge.net
 c-aps-usea2-01-skype.cloudapp.net
 c-bing-com.a-0001.a-msedge.net
 c-cc-usea2-01-skype.cloudapp.net
-c-msedge.net
 c-msn-com-nsatc.trafficmanager.net
 c-ring-fallback.msedge.net
 c-ring.c-9999.c-msedge.net
@@ -1934,7 +1931,6 @@ e-0009.e-msedge.net
 e-0009.e-msedge.net#ALSO
 e-0012.e-msedge.net
 e-9999.e-dc-msedge.net
-e-msedge.net
 e-ring-fallback.msedge.net
 e.crashlytics.com
 e10198.b.akamaiedge.net
@@ -2143,13 +2139,10 @@ f46aa82b7b41690eee3f3906e8e1187b.clo.footprintdns.com
 f65fdd019c6b71777f9a59c85df1a389.clo.footprintdns.com
 f803557fdf135e8cd5e18cbd61343016.clo.footprintdns.com
 fa5c3a2c98d3327bd5c29168b7f95077.clo.footprintdns.com
-facebook.com
 faeac7c07a7d00268eced7fc2677ca6d.nrb.footprintdns.com
 fast.appcues.com
 fastg8.pool.iponweb.net
 fbb39cc5e8d47d7aae42dd901b10aa2e.nrb.footprintdns.com
-fbcdn.net
-fbsbx.com
 fd-api-iris.trafficmanager.net
 fd.api.iris.microsoft.com
 fd.api.iris.microsoft.comfd.api.iris.microsoft.com
@@ -2637,7 +2630,6 @@ mel-mvp.trafficmanager.net
 mel23prdapp01-canary-opaph.australiasoutheast.cloudapp.azure.com
 mel23prdapp01-canary-opaph.netmon.azure.com
 mem.gfx.ms
-microsoft.com
 microsoft.geo.appnexusgslb.net
 microsoft.windowscommunicationsapps.exe
 microsoftcasualgames.com
@@ -2779,7 +2771,6 @@ odc.officeapps.live.com
 odinvzc.azureedge.net
 odwebpl.trafficmanager.net.l-0004.dc-msedge.net.l-0004.l-msedge.net
 oem.twimg.com
-office.com
 office.live.com
 office15client.microsoft.com
 officeapps.live.com
@@ -2800,7 +2791,6 @@ oneclient.sfx.ms.edgekey.net
 onecollector.cloudapp.aria.akadns.net
 onecs-live.azureedge.net
 onecs-live.ec.azureedge.net
-onedrive.com
 onedrive.live.com
 onedriveclucprodbn20001.blob.core.windows.net
 onedriveclucprodbn20002.blob.core.windows.net
@@ -3235,7 +3225,6 @@ s-0006.s-msedge.net
 s-9999.s-dc-msedge.net
 s-9999.s-msedge.net
 s-img.mgid.net
-s-msedge.net
 s-ring-fallback.msedge.net
 s-ring.dual-s-9999.dual-s-dc-msedge.net
 s-ring.dual-s-9999.dual-s-msedge.net
@@ -3788,10 +3777,8 @@ win1710.ipv6.microsoft.com
 win1910.ipv6.microsoft.com
 win8-emdlws-main.trafficmanager.net
 win8.ipv6.microsoft.com
-windows.com
 windows.msn.com
 windows.policies.live.net
-windowssearch.com
 windowsupdate.s.llnwi.net
 windowsupdatebg.s.llnwi.net
 wns.notify.trafficmanager.net
