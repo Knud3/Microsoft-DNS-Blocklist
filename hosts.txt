@@ -3180,7 +3180,6 @@ res-1.cdn.office.net-c.edgekey.net
 res-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net
 res-prod-h3.trafficmanager.net
 res-prod.trafficmanager.net
-res.cdn.office.net
 ring.msedge.net
 rio20prdapp01-canary-opaph.brazilsoutheast.cloudapp.azure.com
 rio20prdapp01-canary-opaph.netmon.azure.com
