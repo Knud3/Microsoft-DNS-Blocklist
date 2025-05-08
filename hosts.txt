@@ -2569,7 +2569,6 @@ login.microsoftonline-p.com
 login.microsoftonline.com
 login.msa.akadns6.net
 login.msa.msidentity.com
-login.mso.msidentity.com
 login.windows-ppe.net
 login.windows.net
 logincdn.msauth.net
