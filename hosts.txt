@@ -1406,7 +1406,6 @@ config.edge.skype.com
 config.edge.skype.com.trafficmanager.net
 config.inmobi.com
 config.officeapps.live.com
-config.teams.microsoft.com
 config.teams.trafficmanager.net
 connect.facebook.net
 consentdeliveryfd.azurefd.net
@@ -2567,7 +2566,6 @@ lo1prdapp01-canary.netmon.azure.com
 location-inference-eastus.cloudapp.net
 location-inference-westus.cloudapp.net
 login-us.microsoftonline.com
-login.live.com
 login.live.com.nsatc.net
 login.microsoft.com
 login.microsoftonline-p.com
@@ -3524,7 +3522,6 @@ teams-ring.msedge.net
 teams-ring.teams-9999.teams-msedge.net
 teams.events.data.microsoft.com
 teams.live.com
-teams.microsoft.com
 technet.microsoft.com
 tele.trafficmanager.net
 telecommand.azurewebsites.net
