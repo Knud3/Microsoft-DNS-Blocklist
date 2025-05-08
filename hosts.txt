@@ -788,7 +788,6 @@ aidps.atdmt.com
 aiedge.net
 aijscdn2.afd.azureedge.net
 aijscdn2.azureedge.net
-ajax.aspnetcdn.com
 ak.privatelink.msidentity.com
 aka-cdn-ns.adtech.de
 aktrack.pubmatic.com
