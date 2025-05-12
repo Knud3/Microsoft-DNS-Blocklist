@@ -941,7 +941,6 @@ atm-settingsfe-prod-geo.trafficmanager.net
 atm-settingsfe-prod-geo2.trafficmanager.net
 atm-settingsfe-prod-geo2.trafficmanager.net
 atm.trafficmanager.net
-attachments.office.net
 atv-ps.amazon.com
 au.au-msedge.net
 au.c-0001.c-msedge.net
