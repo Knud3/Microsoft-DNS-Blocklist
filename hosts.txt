@@ -3066,7 +3066,6 @@ portal.office.com
 pr-bh.ybp.yah
 pr-bh.ybp.yahoo
 pr-bh.ybp.yahoo.com
-prda.aadg.msidentity.com
 prdv4a.aadg.msidentity.com
 prdv6a.aadg.msidentity.com
 pre.footprintpredict.com
