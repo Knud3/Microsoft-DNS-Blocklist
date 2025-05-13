@@ -2768,7 +2768,6 @@ office15client.microsoft.com
 officeapps.live.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
-officeclient.microsoft.com
 officehomeblobs.blob.core.windows.net
 officepreviewredir.microsoft.com
 officeredir.microsoft.com
