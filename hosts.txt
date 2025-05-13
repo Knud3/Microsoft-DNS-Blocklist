@@ -721,7 +721,6 @@ a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 a9d3ffcb80244e68839499bc41b8c9be.clo.footprintdns.com
 aadcdn.msauth.ne
 aadcdn.msftauth.net
-aadcdnoriginwus2.afd.azureedge.net
 ac3.msn.com
 account.activedirectory.windowsazure.com
 account.live.com
@@ -2759,7 +2758,6 @@ ocsp.msocsp.com
 ocws.officeapps.live.com
 odc-web-brs.onedrive.akadns.net
 odc-web-geo.onedrive.akadns.net
-odc.officeapps.live.com
 odinvzc.azureedge.net
 odwebpl.trafficmanager.net.l-0004.dc-msedge.net.l-0004.l-msedge.net
 oem.twimg.com
