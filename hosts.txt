@@ -2558,17 +2558,6 @@ lo1prdapp01-canary.cloudapp.net
 lo1prdapp01-canary.netmon.azure.com
 location-inference-eastus.cloudapp.net
 location-inference-westus.cloudapp.net
-login-us.microsoftonline.com
-login.live.com.nsatc.net
-login.microsoft.com
-login.microsoftonline-p.com
-login.microsoftonline.com
-login.msa.akadns6.net
-login.msa.msidentity.com
-login.windows-ppe.net
-login.windows.net
-logincdn.msauth.net
-logincdn.msftauth.net
 logincert.microsoftonline.com
 loginex.microsoftonline.com
 lon22prdapp02-canary-opaph.netmon.azure.com
