@@ -3438,7 +3438,6 @@ su3.mcafee.com
 suite.office.net
 support.content.office.net
 support.content.office.net.edgekey.net
-support.microsoft.com
 survey.watson.microsoft.com
 svc.ha-teams.office.com
 svc.ms-acdc-teams.office.com
