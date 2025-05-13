@@ -722,7 +722,6 @@ a9d3ffcb80244e68839499bc41b8c9be.clo.footprintdns.com
 aadcdn.msauth.ne
 aadcdn.msftauth.net
 aadcdnoriginwus2.afd.azureedge.net
-aadcdnoriginwus2.azureedge.net
 ac3.msn.com
 account.activedirectory.windowsazure.com
 account.live.com
