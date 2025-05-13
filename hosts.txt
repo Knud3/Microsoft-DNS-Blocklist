@@ -3807,7 +3807,6 @@ www.bing.comwww.bing.com
 www.bingapis.com
 www.clarity.ms
 www.google-analytics.com
-www.microsoft.com-c-3.edgekey.net
 www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
 www.microsoftcasualgames.com
 www.msftconnecttest.com
