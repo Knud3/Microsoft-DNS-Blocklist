@@ -2037,7 +2037,6 @@ ecn.api.tiles.virtualearth.net
 ecn.dev.virtualearth.net
 ecs-office.s-0005.s-msedge.net
 ecs.nel.measure.office.net
-ecs.office.com
 ecs.office.trafficmanager.net
 ed4c654036e8024aa92abb362d267d54.clo.footprintdns.com
 eda9745739f20e4824c146883753acf8.clo.footprintdns.com
