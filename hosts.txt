@@ -779,12 +779,10 @@ afd.msedge.azure.us
 afdap.au.au-msedge.net
 afdxtest.z01.azurefd.net
 afficmanager.net
-ags.privatelink.msidentity.com
 aidps.atdmt.com
 aiedge.net
 aijscdn2.afd.azureedge.net
 aijscdn2.azureedge.net
-ak.privatelink.msidentity.com
 aka-cdn-ns.adtech.de
 aktrack.pubmatic.com
 aktrack.pubmatic.edgekey.net
