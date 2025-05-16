@@ -719,8 +719,6 @@ a9732228403c64b6397016b4ab6eb5a4-4ddad7909c5387ea.elb.us-east-1.amazonaws.com
 a978.i6g1.akamai.net
 a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 a9d3ffcb80244e68839499bc41b8c9be.clo.footprintdns.com
-aadcdn.msauth.ne
-aadcdn.msftauth.net
 ac3.msn.com
 account.activedirectory.windowsazure.com
 account.live.com
