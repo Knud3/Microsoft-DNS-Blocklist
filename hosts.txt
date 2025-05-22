@@ -1820,7 +1820,6 @@ developerportalprod.blob.core.windows.net
 device-metrics-us-2.amazon.com
 device.auth.xboxlive.com
 device.auth.xboxlive.com.akadns.net
-device.login.microsoftonline.com
 devicemetadataservice.prod.trafficmanager.net
 df.telemetry.microsoft.com
 dgps.support.microsoft.com
