@@ -822,7 +822,6 @@ api.cdp.microsoft.com
 api.cortana.ai
 api.edgeoffer.microsoft.com
 api.getvero.com
-api.meetup.com
 api.mixpanel.com
 api.msn.com
 api.onedrive.com
