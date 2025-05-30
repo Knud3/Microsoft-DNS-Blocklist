@@ -2520,8 +2520,6 @@ las01r3.msedge.net
 lax-1-sync.go.sonobi.com
 lax1-ib.adnxs.com
 learn-public.trafficmanager.net
-learn.microsoft.com.edgekey.net
-learn.microsoft.com.edgekey.net.globalredir.akadns.net
 legacy-redirection-neurope-prod-hp.cloudapp.net
 lf16-tiktok-common.ttwstatic.com
 lf16-tiktok-common.ttwstatic.com.edgesuite.net
