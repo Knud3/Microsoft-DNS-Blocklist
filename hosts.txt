@@ -1358,7 +1358,6 @@ client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
 client.mams.microsoft.com
 client.mams.microsoft.com.edgekey.net
-client.wns.windows.com
 clientconfig.microsoftonline-p.net
 clientconfig.passport.net
 clienttoken.spotify.com
@@ -1423,8 +1422,6 @@ cpt20prdapp01-canary-opaph.southafricawest.cloudapp.azure.com
 cq1prdapp01-canary.brazilsouth.cloudapp.azure.com
 cq1prdapp01-canary.netmon.azure.com
 creativecdn.com
-crl-symcprod.digicert.com
-crl.edge.digicert.com
 crl.microsoft.com
 crl.root-x1.letsencrypt.org.edgekey.net
 crl.verisign.com
@@ -2629,7 +2626,6 @@ moiazureorigin.clo.footprintdns.com
 mon.us.tiktokv.com
 mp.microsoft.com
 mpd.mxptint.net
-mpki-ocsp.digicert.com
 mrodevicemgr.officeapps.live.com
 mrs20prdapp01-canary.francesouth.cloudapp.azure.com
 mrs20prdapp01-canary.netmon.azure.com
@@ -2728,8 +2724,6 @@ oca.microsoft.com
 oca.telemetry.microsoft.com
 oca.telemetry.microsoft.com.nsatc.net
 ocos-office365-s2s.msedge.net
-ocsp.digicert.com
-ocsp.edge.digicert.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
 ocsp.msocsp.com
