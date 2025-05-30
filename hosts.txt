@@ -1391,8 +1391,6 @@ config-inmobi-com-tm.trafficmanager.net
 config-inmobi-comtm.trafficmanager.net
 config-teams.s-0005.s-msedge.net
 config.eastus-ssp.appgwv2.inmobi.com
-config.edge.skype.com
-config.edge.skype.com.trafficmanager.net
 config.inmobi.com
 config.officeapps.live.com
 config.teams.trafficmanager.net
@@ -3402,9 +3400,6 @@ storage.live.com
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeedgefd.dsx.mp
-storeedgefd.dsx.mp.microsoft.com
-storeedgefd.dsx.mp.microsoft.com.edgekey.net
-storeedgefd.dsx.mp.microsoft.com.edgekey.net.globalredir.akadns.net
 storeedgefd.xbetservices.akadns.net
 storesdk.dsx.mp
 storesdk.dsx.mp.microsoft.com
