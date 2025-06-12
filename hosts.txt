@@ -23,7 +23,6 @@
 1.perf.msedge.net
 108-174-10-14.fwd.linkedin.com
 10ecee009e61280c2b7fec0e05e963e0.clo.footprintdns.com
-11.tlu.dl.delivery.mp.microsoft.com
 118-163-160-187-HINET-IP.hinet.net
 11bdfa4957d4958086b8036854901733.clo.footprintdns.com
 11c088c431d3cf1d87daf6ccddc038e3.clo.footprintdns.com
@@ -44,7 +43,6 @@
 1a8a4025b2d69d4db3903cbf64b86dbf.clo.footprintdns.com
 1bc76bf3a3d670b4c99be7dc4d7b8506.clo.footprintdns.com
 1bd68ec9923821b08be80e0538343638.clo.footprintdns.com
-1D.tlu.dl.delivery.mp.microsoft.com
 1d380f01bdb305bd6213f851a1692c98.nrb.footprintdns.com
 1d686c6b3cd05483cb7c495825eb92b2.clo.footprintdns.com
 1e1ab543235a3ba6ed5712639c75cc8f.clo.footprintdns.com
@@ -52,9 +50,6 @@
 1f66dcc429bc90a5bde7f7d18732554d.clo.footprintdns.com
 1fb026fc81721e9c00907e88fc26838d.clo.footprintdns.com
 1fe2858787d111fc14dff825f797e9d7.clo.footprintdns.com
-2.dl.delivery.mp.microsoft.com
-2.tlu.dl.delivery.mp.microsoft.com
-2.tlu.dl.delivery.mp.microsoft.com.edgesuite.net
 207359c00fe47b5d66c0dd5c0d85f719.clo.footprintdns.com
 2260142e0d9e672aa7072512133eb083.clo.footprintdns.com
 22da0f074570d49419de91fd2c930f6c.clo.footprintdns.com
@@ -73,10 +68,6 @@
 2bcc235623f7e1f01a1cab536dc1237c.clo.footprintdns.com
 2e056d616060b401dcdb72956e7e6d7c.nrb.footprintdns.com
 2kpixel.quantserve.com
-3.dl.delivery.mp.microsoft.com
-3.dl.delivery.mp.microsoft.com.c.footprint.net
-3.tlu.dl.delivery.mp.microsoft.com
-3.tlu.dl.delivery.mp.microsoft.com.c.footprint.net
 30ec0a9ddf04b4ddeda97d27e90fcda7.azr.footprintdns.com
 31ff3195f71826a688bf89cd78440441.clo.footprintdns.com
 3225784d4fd41b944629da47c20af231.clo.footprintdns.com
@@ -93,7 +84,6 @@
 3cfcb7ebe9bacab0b5e7a60547c9983c.clo.footprintdns.com
 4-c-0003.c-msedge.net
 4.perf.msedge.net
-4.tlu.dl.delivery.mp.microsoft.com
 41d123050c901e34ced1e7e9fa25d4e5.clo.footprintdns.com
 42802c46c42a56569dad03e2fa5b6312.clo.footprintdns.com
 443820874f954c8e323674740fd1517d.clo.footprintdns.com
@@ -148,7 +138,6 @@
 6e908a64b3dfd5da3815e194a07be0d3.azr.footprintdns.com
 6fe1c41e16a1e64cfcf4f64ca1157401.clo.footprintdns.com
 7.perf.msedge.net
-7.tlu.dl.delivery.mp.microsoft.com
 70b96f93a153c9b8566e7a25e0952705.clo.footprintdns.com
 714eebd901474bc226a0ee6db59f5c79.clo.footprintdns.com
 7286d0542b7008e15000c004700b312a.clo.footprintdns.com
@@ -191,7 +180,6 @@
 8bf9cfe8a77d48f6252879f1516e16e7.nrb.footprintdns.com
 8c824ae987ea8266aee31f36cb0dbced.clo.footprintdns.com
 8d7a36d0bee88abfd09ddfeb1ec26cd2.clo.footprintdns.com
-9.tlu.dl.delivery.mp.microsoft.com
 90e201b2793b4ae6df7ff457375466e2.clo.footprintdns.com
 91c619b1107913a90e973f3c637478b6.nrb.footprintdns.com
 92ab.playfabapi.com
@@ -1496,7 +1484,6 @@ db3aqu.atdmt.com
 db3prdapp01-canary.netmon.azure.com
 db3prdapp01-canary.northeurope.cloudapp.azure.com
 db3wns2011111.wns.windows.com
-db5-dspcdn.tlu.dl.delivery.mp.microsoft.com
 db5-eap.settings-win.data.microsoft.com.akadns.net
 db5.displaycatalog.md.mp.microsoft.com.akadns.net
 db5.md.mp.microsoft.com.akadns.net
@@ -1840,9 +1827,6 @@ displaycatalog-rp.md.mp.microsoft.com.akadns.net
 displaycatalog.md.mp.microsoft.com
 displaycatalog.mp
 displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-dl.delivery.mp.microsoft.com-c.edgesuite.net
-dl.delivery.mp.microsoft.com.c.footprint.net
 dlassets-ssl.xboxlive.com
 dm1prdapp01-canary.centralus.cloudapp.azure.com
 dm1prdapp01-canary.netmon.azure.com
@@ -2633,10 +2617,6 @@ mscrl.microsoft.com
 msdn.microsoft.com
 msedge.api.cdp.microsoft.co
 msedge.api.cdp.microsoft.com
-msedge.b.tlu.dl.delivery.mp.microsoft.com
-msedge.f.dl.delivery.mp.microsoft.com
-msedge.f.tlu.dl.delivery.mp.microsoft.com
-msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 msedgesetup.azureedge.net
 msftenterprise.sc.omtrdc.net
 msftspeechmodelsprod.azureedge.net
@@ -3505,8 +3485,6 @@ tls13.taboola.map.fastly.net
 tlu-dcat.azureedge.net
 tlu-dcat.ec.azureedge.net
 tlu-graystore.c-0001.c-msedge.net
-tlu.dl.delivery.mp.microsoft.com
-tlu.dl.delivery.mp.microsoft.com-c.edgesuite.net
 tlu.graystore.au-msedge.net
 tm-prod-wd-csp-edge.trafficmanager.net
 tm.a.prd.aadg.trafficmanager.net
@@ -3697,8 +3675,6 @@ widget.da1.vip.prod.criteo.com
 widget.intercom.io
 widgets.zemanta.com
 wildcard.appex-rf.msn.com.edgesuite.net
-wildcard.f.dl.delivery.mp.microsoft.com.edgesuite.net
-wildcard.f.tlu.dl.delivery.mp.microsoft.com.edgesuite.net
 wildcard.marketo.net.edgekey.net
 wildcard.owneriq.net.edgekey.net
 wildcard.tiles.virtualearth.net.edgekey.net
