@@ -1867,7 +1867,6 @@ download-ssl.msgamestudios.com
 download-ssl.msgamestudios.com-san.edgekey.net
 download-ssl.msgamestudios.com.edgekey.net
 download-ssl.msgamestudios.com.nsatc.net
-download.microsoft.com
 dpm.demdex.net
 dprwukyrdafy.localdomain
 ds-beap1.cb.g01.yahoodns.net
