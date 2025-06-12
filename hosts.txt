@@ -1917,7 +1917,6 @@ e12564.dscg.akamaiedge.net
 e12564.dspb.akamaiedge.net
 e12627.g.akamaiedge.net
 e13551.dscg.akamaiedge.net
-e13636.dscb.akamaiedge.net
 e13678.dscb.akamaiedge.net
 e13678.dscg.akamaiedge.net
 e13678.dspb.akamaiedge.net
