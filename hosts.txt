@@ -2253,7 +2253,6 @@ global.in.ai.privatelink.monitor.azure.com
 global.px.quantserve.com
 global.sam.msn.com
 global.segments.s-msedge.net
-go.microsoft.com.edgekey.net
 gocm.c.appier.net
 goi-mvp.trafficmanager.net
 google-analytics.com
