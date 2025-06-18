@@ -1376,7 +1376,6 @@ config-cd-dmgz.bamgrid.com
 config-edge-skype.l-0007.l-msedge.net
 config-inmobi-com-tm.trafficmanager.net
 config-inmobi-comtm.trafficmanager.net
-config-teams.s-0005.s-msedge.net
 config.eastus-ssp.appgwv2.inmobi.com
 config.inmobi.com
 config.officeapps.live.com
@@ -3150,7 +3149,6 @@ s-0001.s-msedge.net
 s-0005-office.config.skype.com
 s-0005-teams.config.skype.com
 s-0005.s-dc-msedge.net
-s-0005.s-msedge.net
 s-0006.s-msedge.net
 s-9999.s-dc-msedge.net
 s-9999.s-msedge.net
