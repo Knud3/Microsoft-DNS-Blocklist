@@ -2927,9 +2927,6 @@ osl21prdapp02-canary-opaph.netmon.azure.com
 osl21prdapp02-canary-opaph.norwayeast.cloudapp.azure.com
 otf.msn.com
 outbrain.map.fastly.net
-outlook-1.cdn.office.net
-outlook-1.cdn.office.net-c.edgekey.net
-outlook-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net
 outlook-base.ms-acdc.office.com
 outlook.ha.office365.com
 outlook.live.com
