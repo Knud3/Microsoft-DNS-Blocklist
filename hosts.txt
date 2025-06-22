@@ -3366,7 +3366,6 @@ storage.live.com
 storecatalogrevocation.storequality.microsoft.com
 storecatalogrevocation.storequality.microsoft.com.edgekey.net
 storeedgefd.dsx.mp
-storeedgefd.xbetservices.akadns.net
 storesdk.dsx.mp
 storesdk.dsx.mp.microsoft.com
 su3.mcafee.com
