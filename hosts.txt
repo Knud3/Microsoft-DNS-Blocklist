@@ -2494,7 +2494,6 @@ l-ring.msedge.net
 las01r3.msedge.net
 lax-1-sync.go.sonobi.com
 lax1-ib.adnxs.com
-learn-public.trafficmanager.net
 legacy-redirection-neurope-prod-hp.cloudapp.net
 lf16-tiktok-common.ttwstatic.com
 lf16-tiktok-common.ttwstatic.com.edgesuite.net
@@ -3283,7 +3282,6 @@ skypeecs-prod-usw-0.cloudapp.net
 sls.update.microsoft.com
 sls.update.microsoft.com.akadns.net
 sls.update.microsoft.com.nsatc.net
-slscr.update.microsoft.com
 sm.mcafee.com
 smartscreen-prod.microsoft.com
 smartscreen.microsoft.com
