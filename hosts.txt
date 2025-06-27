@@ -692,7 +692,6 @@ a72-247-211-235.deploy.static.akamaitechnologies.com
 a72-247-96-11.deploy.static.akamaitechnologies.com
 a767.dscd.akamai.net
 a767.dscg3.akamai.net
-a767.dspw65.akamai.net
 a8ab897a6d72cd4c34704db32f38551d.clo.footprintdns.com
 a96-6-141-42.deploy.static.akamaitechnologies.com
 a96-7-128-64.deploy.static.akamaitechnologies.com
@@ -2122,7 +2121,6 @@ fe3.delivery.dsp.mp.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
-fe3cr.delivery.mp.microsoft.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
