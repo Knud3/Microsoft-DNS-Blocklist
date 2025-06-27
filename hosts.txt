@@ -1473,7 +1473,6 @@ d31otfhas71ais.cloudfront.net
 d3b55opm33rbhk.cloudfront.net
 d7d8bde55e25ab8f51d0f72c4566a5c4.clo.footprintdns.com
 d84a146465db08c8e886420e7e0556ae.clo.footprintdns.com
-da.xboxservices.com
 dareprobe-tr1.office.com
 dareprobe.office.com
 data-edge.smartscreen.microsoft.com
@@ -1824,7 +1823,6 @@ displaycatalog-rp-uswest.md.mp.microsoft.com.akadns.net
 displaycatalog-rp.md.mp.microsoft.com.akadns.net
 displaycatalog.md.mp.microsoft.com
 displaycatalog.mp
-displaycatalog.mp.microsoft.com
 dlassets-ssl.xboxlive.com
 dm1prdapp01-canary.centralus.cloudapp.azure.com
 dm1prdapp01-canary.netmon.azure.com
@@ -1912,7 +1910,6 @@ e12358.g.akamaiedge.net
 e12437.g.akamaiedge.net
 e12449.b.akamaiedge.net
 e12564.dscg.akamaiedge.net
-e12564.dspb.akamaiedge.net
 e12627.g.akamaiedge.net
 e13551.dscg.akamaiedge.net
 e13678.dscb.akamaiedge.net
@@ -1921,7 +1918,6 @@ e13678.dspb.akamaiedge.net
 e15275.g.akamaiedge.net
 e1553.dspg.akamaiedge.net
 e16604.g.akamaiedge.net
-e16646.dscg.akamaiedge.net
 e1706.g.akamaiedge.net
 e1723.g.akamaiedge.net
 e1822.dsca.akamaiedge.net
@@ -2506,7 +2502,6 @@ lgincdnvzeuno.ec.azureedge.net
 lhr-mvp.trafficmanager.net
 licensing-prod-frontdoor-geomap.trafficmanager.net
 licensing.md.mp.microsoft.com
-licensing.mp.microsoft.com
 licensingphone.md.mp.microsoft.com
 live.rads.msn.com
 live.xbox.com
@@ -3056,8 +3051,6 @@ pugm33000nfc.pubmatic.com
 purchase-uswesteap.md.mp.microsoft.com.akadns.net
 purchase.md.mp.microsoft.com
 purchase.md.mp.microsoft.com.akadns.net
-purchase.mp.microsoft.com
-purchase.mp.microsoft.com.edgekey.net
 px.ads.linkedin.com
 px.owneriq.net
 q-9999.dc-msedge.net
