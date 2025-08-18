@@ -3160,8 +3160,6 @@ s20.tiktokcdn.com
 s20.tiktokcdn.com.edgesuite.net
 s2s.config.skype.com
 s2s.msedge.net
-s3-1-w.amazonaws.com
-s3-w.us-east-1.amazonaws.com
 sadc1.outbrain.org
 san.ssl.ak.dynamic.tiles.virtualearth.net.edgekey.net
 sanalytics.disneyplus.com
