@@ -3241,9 +3241,6 @@ skype.com
 skypeecs-prod-edge-a.trafficmanager.net
 skypeecs-prod-edge-b.trafficmanager.net
 skypeecs-prod-usw-0.cloudapp.net
-sls.update.microsoft.com
-sls.update.microsoft.com.akadns.net
-sls.update.microsoft.com.nsatc.net
 sm.mcafee.com
 smartscreen-prod.microsoft.com
 smartscreen.microsoft.com
