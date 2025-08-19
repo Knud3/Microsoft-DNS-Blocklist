@@ -2698,8 +2698,6 @@ oem.twimg.com
 office.live.com
 office15client.microsoft.com
 officeapps.live.com
-officecdn.microsoft.com
-officecdn.microsoft.com.edgesuite.net
 officehomeblobs.blob.core.windows.net
 officepreviewredir.microsoft.com
 officeredir.microsoft.com
