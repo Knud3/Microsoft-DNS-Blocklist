@@ -3000,7 +3000,6 @@ prod-video-cms-rt-microsoft-com.akamaized.net
 prod-w.nexus.live.com.akadns.net
 prod.appnexus.map.fastly.net
 prod.configsvc.live.com.akadns.net
-prod.configsvc1.live.com.akadns.net
 prod.do.dsp.mp
 prod.do.dsp.mp.microsoft.com
 prod.do.dsp.mp.microsoft.com.nsatc.ne
