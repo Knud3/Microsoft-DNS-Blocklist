@@ -2343,7 +2343,6 @@ hknprdapp01-canary.netmon.azure.com
 hlb.apr-52dd2-0.edgecastdns.net
 hnd-mvp.trafficmanager.net
 hnl01.msedge.net
-home-office365-com.b-0004.b-msedge.net
 home-redirects.www.office.com
 https-68-142-107-1.lax.llnw.net
 https-68-142-107-129.lax.llnw.net
