@@ -2919,9 +2919,6 @@ outlook.ha.office365.com
 outlook.live.com
 outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net
 outlookmobile-office365-tas.msedge.net
-ow1.res.office365.com
-ow1.res.office365.com.edgekey.net
-ow2.res.office365.com.edgekey.net
 ows.net
 p-static.bing.trafficmanager.net
 p-th.bing.com.trafficmanager.net
@@ -3068,13 +3065,9 @@ r.manage.microsoft.com
 r.msftstatic.com
 r.net
 r.office.microsoft.com
-r1.res.office365.com
 r20swj13mr.microsoft.com
 r3.i.lencr.org
 r3.o.lencr.org
-r3.res.office365.com
-r4.res.office365.com
-r4.res.office365.com.edgekey.net
 rad.live.com
 rad.msn.com
 rcr.blob.core.windows.net
