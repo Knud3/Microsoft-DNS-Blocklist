@@ -738,7 +738,6 @@ ad.turn.com
 ad.turn.com.akadns.net
 adf1589f00e70c9a430c1f7b07f7b719.clo.footprintdns.com
 adl.windows.com
-admin-portal.office.com
 admin.microsoft.com
 admin.onedrive.com
 adminwebservice.microsoftonline.com
@@ -2345,7 +2344,6 @@ hlb.apr-52dd2-0.edgecastdns.net
 hnd-mvp.trafficmanager.net
 hnl01.msedge.net
 home-office365-com.b-0004.b-msedge.net
-home-portal.office.com
 home-redirects.www.office.com
 https-68-142-107-1.lax.llnw.net
 https-68-142-107-129.lax.llnw.net
@@ -2993,7 +2991,6 @@ pool.dorpat.iponweb.net
 pool.proclivity.iponweb.net
 pool.sofia.iponweb.net
 portal-office365-com.b-0004.b-msedge.net
-portal.office.com
 pr-bh.ybp.yah
 pr-bh.ybp.yahoo
 pr-bh.ybp.yahoo.com
