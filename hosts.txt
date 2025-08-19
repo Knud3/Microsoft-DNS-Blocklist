@@ -3021,7 +3021,6 @@ prod.microsoft.com
 prod.msocdn.com
 prod.nexusrules.live.com.akadns.net
 prod.ocws1.live.com.akadns.net
-prod.odcsm1.live.com.akadns.net
 prod.registrar.skype.com
 prod.ups-adcom.aolp-ds-prd.aws.oath.cloud
 prod.ups-ats.aolp-ds-prd.aws.oath.cloud
