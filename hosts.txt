@@ -1782,7 +1782,6 @@ decide.mixpanel.com
 decsitefinitycdn.blob.core.windows.net
 deff.nelreports.net
 deff.nelreports.net.akamaized.net
-definitionupdates.microsoft.com
 delivery.dsp.mp.microsoft.com
 delivery.mp.microsoft.com
 den01.sync.search.spotxchange.com
