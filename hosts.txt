@@ -2922,8 +2922,6 @@ outlookmobile-office365-tas.msedge.net
 ow1.res.office365.com
 ow1.res.office365.com.edgekey.net
 ow2.res.office365.com.edgekey.net
-owamail.public.cdn.office.net.edgekey.net
-owamail.public.cdn.office.net.edgekey.net.globalredir.akadns.net
 ows.net
 p-static.bing.trafficmanager.net
 p-th.bing.com.trafficmanager.net
@@ -3092,10 +3090,6 @@ remoteassistance.support.services.microsoft.com
 remoteassistance.support.services.microsoft.com.edgekey.net
 reports.wes.df.telemetry.microsoft.com
 requality.microsoft.com
-res-1-tls.cdn.office.net
-res-1.cdn.office.net
-res-1.cdn.office.net-c.edgekey.net
-res-1.cdn.office.net-c.edgekey.net.globalredir.akadns.net
 res-prod-h3.trafficmanager.net
 res-prod.trafficmanager.net
 ring.msedge.net
@@ -3231,9 +3225,6 @@ shared-cus.api.support-aries.microsoft.com
 shared.api.support-aries.microsoft.com
 shed.dual-low.part-0043.t-0009.fdv2-t-msedge.net
 shed.dual-low.part-0043.t-0009.t-msedge.net
-shell.cdn.office.net
-shell.cdn.office.net-c.edgekey.net
-shell.cdn.office.net-c.edgekey.net.globalredir.akadns.net
 shellprod.msocdn.com
 shftr.adnxs.net
 shftr.appnexusgslb.net
