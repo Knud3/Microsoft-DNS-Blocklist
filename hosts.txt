@@ -2231,7 +2231,6 @@ googleads4.g.doubleclick.net
 gpla1.wac.v2cdn.net
 gprs-clients-85.26.155.145.misp.ru
 graph.instagram.com
-graph.microsoft.com
 graph.windows.net
 graystore.c-0001.c-msedge.net
 greenid-prod-pme.westus2.cloudapp.azure.com
