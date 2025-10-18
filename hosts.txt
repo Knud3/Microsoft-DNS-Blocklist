@@ -3003,7 +3003,6 @@ prod.do.dsp.mp.microsoft.com
 prod.do.dsp.mp.microsoft.com.nsatc.ne
 prod.dodsp.mp.microsoft.com.nsatc.ne
 prod.firstpartyapps.oaspapps.com.akadns.net
-prod.fs.microsoft.com.akadns.net
 prod.microsoft.com
 prod.msocdn.com
 prod.nexusrules.live.com.akadns.net
