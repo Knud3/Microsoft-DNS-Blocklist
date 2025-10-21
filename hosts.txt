@@ -1834,7 +1834,6 @@ dns.msftncsi.com
 dns6.skype-dns.akadns.net
 docker.creative-serving.com
 docs.live.net
-docs.microsoft.com
 doh20prdapp01-canary-opaph.netmon.azure.com
 doh20prdapp01-canary-opaph.qatarcentral.cloudapp.azure.com
 doh21prdapp02-canary-opaph.netmon.azure.com
