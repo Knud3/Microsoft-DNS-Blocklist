@@ -2110,7 +2110,6 @@ fe2.ws.microsoft.com
 fe2cr.update.msft.com.trafficmanager.net
 fe3.delivery.dsp.mp.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
