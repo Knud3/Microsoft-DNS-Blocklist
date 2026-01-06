@@ -3027,9 +3027,6 @@ pugm-sv3pairb.pubmatic.com
 pugm-sv3pairbc.pubmatic.com
 pugm33000nf.pubmatic.com
 pugm33000nfc.pubmatic.com
-purchase-uswesteap.md.mp.microsoft.com.akadns.net
-purchase.md.mp.microsoft.com
-purchase.md.mp.microsoft.com.akadns.net
 px.ads.linkedin.com
 px.owneriq.net
 q-9999.dc-msedge.net
