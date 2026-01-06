@@ -1379,9 +1379,6 @@ config.inmobi.com
 config.teams.trafficmanager.net
 connect.facebook.net
 consentdeliveryfd.azurefd.net
-consumer-displaycatalogrp-aks2aks-uswest.md.mp.microsoft.com.akadns.net
-consumer-licensing-aks2aks-uswest.md.mp.microsoft.com.akadns.net
-consumer-licensing-aks2aks.md.mp.microsoft.com.akadns.net
 content-repo.clipchamp.com
 content.clipchamp.com
 contentstorage.osi.office.net
