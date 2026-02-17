@@ -708,11 +708,7 @@ a9a64462b995ebdf674e51eb0f2afd4e.clo.footprintdns.com
 a9d3ffcb80244e68839499bc41b8c9be.clo.footprintdns.com
 ac3.msn.com
 account.activedirectory.windowsazure.com
-account.live.com
-account.microsoft.com
 account.microsoft.com.edgekey.net
-account.office.net
-account.xbox.com
 account.xbox.com.akadns.net
 account.xbox.com.edgekey.net
 accounts.accesscontrol.windows.net
