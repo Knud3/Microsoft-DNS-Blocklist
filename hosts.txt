@@ -2588,7 +2588,6 @@ mscomajax.vo.msecnd.net
 mscrl.microsoft.com
 msdn.microsoft.com
 msedge.api.cdp.microsoft.co
-msedge.api.cdp.microsoft.com
 msedgesetup.azureedge.net
 msftenterprise.sc.omtrdc.net
 msftspeechmodelsprod.azureedge.net
