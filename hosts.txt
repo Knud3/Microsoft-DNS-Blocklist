@@ -922,7 +922,6 @@ au.c-0001.c-msedge.net
 auh20prdapp01-canary-opaph.netmon.azure.com
 auh20prdapp01-canary-opaph.uaecentral.cloudapp.azure.com
 auth.gfx.ms
-autologon.microsoftazuread-sso.com
 avatar-service-prod-b-eus2.cloudapp.net
 az15297.vo.msecnd.net
 az361816.vo.msecnd.net
