@@ -2898,7 +2898,6 @@ otf.msn.com
 outbrain.map.fastly.net
 outlook-base.ms-acdc.office.com
 outlook.ha.office365.com
-outlook.live.com
 outlookmobile-office365-tas-msedge-net.e-0009.e-msedge.net
 outlookmobile-office365-tas.msedge.net
 ows.net
