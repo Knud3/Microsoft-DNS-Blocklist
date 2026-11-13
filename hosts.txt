@@ -2010,9 +2010,6 @@ edge-web.dual-gslb.spotify.com
 edge.activity.windows.com
 edge.fullstory.com
 edge.gycpi.b.yahoodns.net
-edge.microsoft.com
-edge.net
-edge.skype.com
 edgeassetservice.afd.azureedge.net
 edgeassetservice.azureedge.net
 edgedl.me.gvt1.com
@@ -3380,7 +3377,6 @@ teams-ring-fallback.msedge.net
 teams-ring.msedge.net
 teams-ring.teams-9999.teams-msedge.net
 teams.events.data.microsoft.com
-teams.live.com
 technet.microsoft.com
 tele.trafficmanager.net
 telecommand.azurewebsites.net
